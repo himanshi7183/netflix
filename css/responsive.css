@@ -1,0 +1,149 @@
+@media (max-width:350px) {
+ .svg1{
+    width: 140px !important;
+ }   
+ .button1{
+    padding: 5px 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+
+    }
+}
+@media (max-width:290px) {
+    .svg1{
+       width: 120px !important;
+    }   
+    .button1{
+        padding: 5px 10px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        text-align: center;
+    
+        }
+   }
+   @media (max-width:265px) {
+    .svg1{
+       width: 100px !important;
+    }   
+    .button1{
+    padding: 5px 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    }
+   }
+
+@media(max-width:823px) {
+    .btn1{
+        margin-top: 10px !important;
+    }
+    .button1{
+        padding: 5px 10px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        text-align: center;
+    
+        }
+}
+
+@media(max-width:410px) {
+    .email{
+        width: 20rem !important;
+    }
+    .button1{
+        padding: 5px 10px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        text-align: center;
+    
+        }
+}
+@media(max-width:345px) {
+    .email{
+        width: 20rem !important;
+    }
+    .button1{
+        padding: 5px 10px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        text-align: center;
+        }
+        
+}
+@media(max-width:460px) {
+    .main-title{
+        font-size: 2.5rem;
+    }
+    .email{
+        width: 18rem !important;
+    }
+    .text1{
+        font-size: 2rem;
+    }
+    .text2{
+        font-size: 2rem;
+    }
+    
+    
+}
+@media(max-width:375px) {
+    .main-title{
+        font-size: 2.5rem;
+    }
+    .email{
+        width: 15rem !important;
+    }
+    .text1{
+        font-size: 2rem;
+    }
+    .text2{
+        font-size: 2rem;
+    }
+    .btn1{
+        font-size: 15px !important;
+    }
+}
+@media(max-width:330px) {
+    .main-title{
+        font-size: 2.5rem;
+    }
+    .email{
+        width: 12rem !important;
+        margin-left: ;
+    }
+    .text1{
+        font-size: 2rem;
+    }
+    .text2{
+        font-size: 2rem;
+    }
+    
+}
+@media(max-width:490px) {
+    .email2{
+        width: 20rem;
+    }
+    
+    
+}
+@media(max-width:400px) {
+    .email2{
+        width: 15rem;
+    }
+    
+}
+@media(max-width:340px) {
+    .email2{
+        width: 10rem;
+    }
+}
+@media(max-width:321px){
+    .cool{
+        font-size: 15px !important;
+    }
+    .card-body{
+        font-size: 15px !important;
+    }
+    
+}

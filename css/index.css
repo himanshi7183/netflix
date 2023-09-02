@@ -1,0 +1,206 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bg{
+    background:url(https://assets.nflxext.com/ffe/siteui/vlv3/fc164b4b-f085-44ee-bb7f-ec7df8539eff/d23a1608-7d90-4da1-93d6-bae2fe60a69b/IN-en-20230814-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+    /* height: 100vh; */
+    /* background: rgb(0 0 0 / 40%); */
+    /* background-color: linear-gradient(to top, rgba(0, 0, 0, 0.598) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.363) 100%); */
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.svg1{
+    width: 150px;
+}
+.button1{
+    padding: 5px 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    align-items: center !important;
+
+    }
+.button1{
+    border: 2px solid white;
+    border-radius: 5px;
+    background:transparent;
+    color: white !important;
+    padding: 7px 15px;
+}
+.button2{
+    background-color: red !important;
+    color: white !important;
+    border-radius: 5px !important;
+    border-style: none;
+    margin-left: 15px;
+    padding: 8px 15px;
+    transition: all 0.3s ease;
+}
+.button2:hover{
+    color: red !important;
+    background-color: white !important; 
+}
+.front{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 8rem;
+    width: 100%;
+    text-align: center;
+}
+.main-title{
+    color: white;
+    font-size: 3.5rem;
+    font-weight:700;
+
+}
+.sub-title{
+    color: white;
+    margin-bottom: 20px;
+}
+.ready{
+    color: white;
+    font-size: 19px;
+}
+.email{
+    width: 24rem;
+    padding: 1rem 1rem 1rem;
+    border-radius: 5px;
+    background:rgba(0,0,0,0.391);
+    border: 1px solid gray;
+}
+::placeholder{
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+}
+.btn1{
+    padding: 1rem 0.5rem 1rem !important;
+    width: 150px !important;
+    background-color: red !important;
+    border: none;
+    color: white !important;
+    border-radius: 5px;
+    font-size: 15px !important;
+    font-weight: 500;
+    margin-left: 5px;
+    transition: all 0.3s ease;
+}
+.btn1:hover{
+    color: red !important;
+    background-color: white !important; 
+    width: 150px !important;
+    font-weight:700;
+}
+
+/* tv section css */
+
+.bg-1
+{
+    background-color: black;
+    
+}
+.text1
+{
+    font-size: 3rem;
+    font-weight: 900;
+    color: white;
+}
+.pera1
+{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: white;
+}
+
+.tv-img
+{
+    position: relative;
+}
+
+.tv-img img{
+    max-width: 83%;
+    max-height: 64%;
+
+}
+.inner-video 
+{
+    z-index: 1;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    max-width: 60%;
+    max-height: 54%;
+    position: absolute;
+    top: 21%;
+    left: 11%;
+}
+
+
+/* frequently asked */
+.text2
+{
+    font-size: 3rem;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+}
+
+
+.cool
+{
+    width: 100%;
+    height: 80px;
+    background-color: rgba(45, 45, 45, 1)!important;
+    color: white !important;
+    font-size: 1.3rem !important;
+    font-weight: 400 !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: start !important;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content:space-between !important;
+    
+}
+
+.card-body
+{
+    background-color: rgba(45, 45, 45, 1)!important;
+    color: white !important;
+    font-size: 1.3rem !important;
+    font-weight: 400 !important;
+}
+
+.email2{
+    width: 24rem;
+    padding: 1rem 1rem 1rem;
+    border-radius: 5px;
+    background:rgba(0,0,0,0.391);
+    border: 1px solid gray;
+}
+::placeholder{
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+}
+/* footer section css */
+ul {
+    list-style: none;
+    
+}
+ul li a{
+    color: rgba(255,255,255,0.7);
+    line-height: 33px !important;
+}
+.text4 
+{
+    color: white !important;
+    font-size: 1.2rem !important;
+    font-weight: 400 !important;
+    margin-left: 30px;
+    color: rgba(255,255,255,0.7);
+}
